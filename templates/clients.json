@@ -1,0 +1,12 @@
+{
+  "_note": "One entry per client. jids = every JID her chat appears under (phone@s.whatsapp.net and/or lid@lid). Filled in with the dietitian, never guessed.",
+  "clients": [
+    {
+      "name": "דוגמה – למחוק",
+      "jids": ["972500000000@s.whatsapp.net"],
+      "phone": "972500000000",
+      "weigh_in": "ראשון בבוקר",
+      "notes": "מטרה, רגישויות, אלרגיות – מה שהתזונאית רוצה ש-Claude יזכור"
+    }
+  ]
+}
